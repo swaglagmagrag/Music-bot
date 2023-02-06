@@ -14,7 +14,7 @@ module.exports = {
   "24/7": false, //If you want the bot to be stay in the vc 24/7
   CookieSecret: "Why is the color orange so hot?", //A Secret like a password
   IconURL:
-    "raw.githubusercontent.com/swaglagmagrag/Music-bot/main/assets/logo.png", //URL of all embed author icons | Dont edit unless you dont need that Music CD Spining
+    "https://23.84.38.245/logo.png", //URL of all embed author icons | Dont edit unless you dont need that Music CD Spining
   EmbedColor: "RANDOM", //Color of most embeds | Dont edit unless you want a specific color instead of a random one each time
   Permissions: 2205281600, //Bot Inviting Permissions
   Website: process.env.Website || "http://localhost", //Website where it was hosted at includes http or https || Use "0.0.0.0" if you using Heroku

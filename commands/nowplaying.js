@@ -3,7 +3,7 @@ const prettyMilliseconds = require("pretty-ms");
 
 module.exports = {
   name: "nowplaying",
-  description: "See what song is currently playing",
+  description: "See what song is playing at the moment.",
   usage: "",
   permissions: {
     channel: ["VIEW_CHANNEL", "SEND_MESSAGES", "EMBED_LINKS"],
