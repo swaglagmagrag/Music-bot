@@ -22,7 +22,7 @@ module.exports = {
     if (!message.member.voice.channel)
       return client.sendTime(
         message.channel,
-        "❌ | **You must be in a voice channel to play something!**"
+        "❌ | **You must be in a voice channel to use this command!**"
       );
     if (
       message.guild.me.voice.channel &&
